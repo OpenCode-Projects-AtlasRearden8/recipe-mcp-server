@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+
+# User data is generated at first run; keep the directory, not the contents.
+recipes_mcp/data/recipes.json
+recipes_mcp/data/recipes.json.bak-*
+recipes_mcp/data/.recipes.json.tmp-*
